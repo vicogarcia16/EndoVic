@@ -7,9 +7,8 @@ Ejercicios de entrenamiento
 * Transferencia virtual: Pasar círculos de un lado a otro de la pantalla, los círculos son generados por el sistema y aparecen aleatoriamente.
 
 * Traslado físico de objetos
-
-		* Trasladar aros del lado derecho al izquierdo con una pinza en el orden númerico generado por sistema y mostrado en pantalla.
-		* Trasladar aros del lado derecho al izquierdo con dos pinzas en el orden númerico generado por sistema y mostrado en pantalla.
+	* Trasladar aros del lado derecho al izquierdo con una pinza en el orden númerico generado por sistema y mostrado en pantalla.
+	* Trasladar aros del lado derecho al izquierdo con dos pinzas en el orden númerico generado por sistema y mostrado en pantalla.
 		
 		
 Intrucciones de uso:
