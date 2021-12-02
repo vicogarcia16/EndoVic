@@ -1,4 +1,4 @@
-Sistema para la clasificación objetivo de habilidades para cirugía laparoscópica en tiempo real
+Sistema para la clasificación objetiva de habilidades para cirugía laparoscópica en tiempo real
 
 Ejercicios de entrenamiento
 
