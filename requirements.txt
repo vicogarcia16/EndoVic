@@ -157,7 +157,7 @@ PyYAML==5.3
 pyzmq==17.1.2
 qtconsole==4.3.1
 rainbowhat==0.1.0
-reportlab==3.5.13
+reportlab==3.6.13
 requests==2.21.0
 requests-oauthlib==1.0.0
 responses==0.9.0
